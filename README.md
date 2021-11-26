@@ -7,3 +7,7 @@ that stores .exe files, so you can just click to these files and code will do th
 It's a very simple function that converts all **.jpg** images that have the same location as script or .exe file to
 **.pdf** image (its name - current date). But you can waste less time, just run code, 
 you won't search the same service in the Internet.
+
+# Retry urls
+It's a script that takes a **.txt** file that contains all urls you want to check/validate. It will return
+a **log.txt** with all invalid urls inside. Amount of retries is 5 by default.
