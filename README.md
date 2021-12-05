@@ -11,3 +11,6 @@ you won't search the same service in the Internet.
 # Retry urls
 It's a script that takes a **.txt** file that contains all urls you want to check/validate. It will return
 a **log.txt** with all invalid urls inside. Amount of retries is 5 by default.
+
+# Send email
+You can send emails using this script.
