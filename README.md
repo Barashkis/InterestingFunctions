@@ -13,4 +13,5 @@ It's a script that takes a **.txt** file that contains all urls you want to chec
 a **log.txt** with all invalid urls inside. Amount of retries is 5 by default.
 
 # Send email
-You can send emails using this script.
+You can send emails using this script. If you want tto send attachments, you should create a folder named 
+"attachments".
