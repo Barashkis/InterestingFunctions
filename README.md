@@ -13,8 +13,8 @@ It's a script that takes a **.txt** file that contains all urls you want to chec
 a **log.txt** with all invalid urls inside. Amount of retries is 5 by default.
 
 # Send email
-You can send emails using this script. If you want tto send attachments, you should create a folder named 
-"attachments".
+You can send emails using this script. If you want to send attachments, you should create a folder named 
+"attachments" and add html file to it.
 
 # Wi-Fi passwords
 Get all passwords of all wlans on your computer. Exe file is also available (it will give you a text file contains 
