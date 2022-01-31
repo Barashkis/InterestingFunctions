@@ -15,3 +15,7 @@ a **log.txt** with all invalid urls inside. Amount of retries is 5 by default.
 # Send email
 You can send emails using this script. If you want tto send attachments, you should create a folder named 
 "attachments".
+
+# Wi-Fi passwords
+Get all passwords of all wlans on your computer. Exe file is also available (it will give you a text file contains 
+all required information.)
